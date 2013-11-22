@@ -52,10 +52,12 @@
         $selector.stop().fadeTo(400, 0, function() {
             $(this).css('visibility', 'hidden');
         });
+        $("object").css('visibility', 'hidden');
     }
 
     function showImgs($selector) {
         $selector.stop().css('visibility', '').fadeTo(400, 1);
+        $("object").css('visibility', '');
     }
 
 })();

@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "One-no img Kittens",
-  "description": "This extension demonstrates a browser action with kittens.",
-  "version": "1.0",
+  "name": "Img Hidden",
+  "description": "This extension hides annoying backgrounds and images.",
+  "version": "0.6",
 
   
   "permissions": [
